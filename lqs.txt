@@ -1,1 +1,6 @@
 git status  ---- para ver informacion
+git log  --------- historial de que se ha hecho
+git add "nombre archivo"  ---------actualizar y añadir el documento
+git commit -m "mensage"  -------- para crear un commit(rama) nuevo
+git remote add origin https://github.com/almanzachoa1/test.git
+  --------para logear y enlazar
